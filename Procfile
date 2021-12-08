@@ -1,1 +1,1 @@
-worker: node autoresponder.js
+worker: node ./autoresponder.js
