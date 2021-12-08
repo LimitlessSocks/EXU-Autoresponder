@@ -1,0 +1,22 @@
+{
+  "name": "autorespond",
+  "version": "1.0.0",
+  "description": "",
+  "main": "autorespond.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LimitlessSocks/EXU-Autoresponder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LimitlessSocks/EXU-Autoresponder/issues"
+  },
+  "homepage": "https://github.com/LimitlessSocks/EXU-Autoresponder#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
+}
