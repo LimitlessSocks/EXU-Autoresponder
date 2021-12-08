@@ -1,1 +1,1 @@
-worker: node autoresponder.py
+worker: node autoresponder.js
