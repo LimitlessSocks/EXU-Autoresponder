@@ -20,6 +20,13 @@
         "outputs": ["https://media.discordapp.net/attachments/575461999639789626/852299185934958632/received_256610138868311_50.png"]
     },
     {
+        "inputs": ["r.i.p", "r.i.p."],
+        "outputs": [
+            "https://cdn.discordapp.com/attachments/918256645916737576/918716536854822932/unknown.png",
+            "https://cdn.discordapp.com/attachments/918256645916737576/918716652735045742/unknown.png"
+        ]
+    },
+    {
         "inputs": ["redox", "red"],
         "outputs": ["i'll stick your balls on a stick and call it a ball kabab if your bitch ass don't shut the fuck up in the next 5 seconds"]
     },
@@ -97,7 +104,7 @@
     },
     {
         "inputs": ["fallen"],
-        "outputs": ["I'mma be honest"]
+        "outputs": ["I'mma be honest", "Ima be honest I love men", "I love men"]
     },
     {
         "inputs": ["verde"],
@@ -126,5 +133,15 @@
     {
         "inputs": ["mac", "macadelic"],
         "outputs": ["Akatsuki God"]
+    },
+    {
+        "inputs": ["auto"],
+        "outputs": [
+            "_Hi! Hope you are having a good day :3_",
+            "_Hello :D_",
+            "_HIYA!!_",
+            "_c:_",
+            "_you are loved, have as wonderful a day as you can ^-^_"
+        ]
     }
 ]
