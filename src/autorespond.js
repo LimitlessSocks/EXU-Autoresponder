@@ -8,6 +8,7 @@ const Responses = require("./responses.json");
 // When the client is ready, run this code (only once)
 client.once('ready', c => {
 	console.log(`Ready! Logged in as ${c.user.tag}`);
+    console.log(Responses.map(e => "[" + e.inputs.join("; ") + "]").join(" "));
 });
 
 const randomChoice = arr => arr[Math.random() * arr.length | 0];
