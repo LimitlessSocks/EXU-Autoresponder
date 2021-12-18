@@ -44,7 +44,7 @@
     },
     {
         "inputs": ["fr"],
-        "outputs": ["frfr"]
+        "outputs": ["frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","i do heartily furnish acclaim and respect for the relevant string of words, for they do truly resonate with my interior state of mind, enough for me to have considered reflecting that by inputing keystrokes on the appropriate device and committing to sending the above message in this particular channel for communication. frfr!"]
     },
     {
         "inputs": ["xccel"],
@@ -60,7 +60,16 @@
     },
     {
         "inputs": ["ava"],
-        "outputs": ["wanna see me talk about my deck? wanna see me do it again?"]
+        "outputs": [
+            "wanna see me talk about my deck? wanna see me do it again?",
+            "fairy aficionado"
+        ]
+    },
+    {
+        "inputs": ["ani", "ms. konami"],
+        "outputs": [
+            "alas, i do not"
+        ]
     },
     {
         "inputs": ["dawn"],
@@ -96,7 +105,10 @@
     },
     {
         "inputs": ["amar", "amaranthine"],
-        "outputs": ["Sub a Link-1 I fucking dare you"]
+        "outputs": [
+            "Sub a Link-1 I fucking dare you",
+            "Link 1s are a sin"
+        ]
     },
     {
         "inputs": ["oryja"],
@@ -119,7 +131,7 @@
         "outputs": ["Britain's favorite simp"]
     },
     {
-        "inputs": ["awk"],
+        "inputs": ["awk", "awkward"],
         "outputs": ["TCG Supremacy"]
     },
     {
@@ -143,5 +155,21 @@
             "_c:_",
             "_you are loved, have as wonderful a day as you can ^-^_"
         ]
+    },
+    {
+        "inputs": ["meh"],
+        "outputs": ["indifference is fatal"]
+    },
+    {
+        "inputs": ["earth"],
+        "outputs": ["the world will bow to snom"]
+    },
+    {
+        "inputs": ["phul"],
+        "outputs": ["exu's rock enthusiast"]
+    },
+    {
+        "inputs": ["c.c", "c.c."],
+        "outputs": ["slowest duelist on the server, guaranteed"]
     }
 ]
