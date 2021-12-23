@@ -52,7 +52,10 @@
     },
     {
         "inputs": ["anon"],
-        "outputs": ["me and the boys subbing singles packs"]
+        "outputs": [
+            "me and the boys subbing singles packs",
+            "Gizmek Naganaki, the Sunrise Signaler"
+        ]
     },
     {
         "inputs": ["noodle"],
@@ -171,5 +174,9 @@
     {
         "inputs": ["c.c", "c.c."],
         "outputs": ["slowest duelist on the server, guaranteed"]
+    },
+    {
+        "inputs": ["ocean"],
+        "outputs": ["xenomorphs and predators, oh my oh my!"]
     }
 ]

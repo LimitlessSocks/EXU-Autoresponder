@@ -17,13 +17,26 @@ client.on("messageCreate", message => {
     let pools = [];
     let { content, channel } = message;
     let stripped = content.toLowerCase().trim();
+    let response = null;
+    let match = stripped.match(/(.+) (\d+)/);
+    if(match) {
+        stripped = match[1];
+        response = match[2];
+    }
     for(let { inputs, outputs } of Responses) {
         if(inputs.some(input => stripped === input)) {
             pools.push(outputs);
         }
     }
     if(pools.length) {
-        let output = randomChoice(randomChoice(pools));
+        let outputPool = randomChoice(pools);
+        let output;
+        if(response === null) {
+            output = randomChoice(outputPool);
+        }
+        else {
+            output = outputPool[response] || "_I'm sorry, there's no corresponding repsonse :c_";
+        }
         channel.send(output);
     }
 });
