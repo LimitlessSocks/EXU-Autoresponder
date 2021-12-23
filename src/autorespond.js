@@ -18,24 +18,34 @@ client.on("messageCreate", message => {
     let { content, channel } = message;
     let stripped = content.toLowerCase().trim();
     let response = null;
-    let match = stripped.match(/^\s*(.+?)\s+(\d+)\s*$/);
+    let match = stripped.match(/^\s*(.+?)\s+(\d+|all)\s*$/);
     if(match) {
         stripped = match[1];
         response = match[2];
     }
-    for(let { inputs, outputs } of Responses) {
+    for(let obj of Responses) {
+        let { inputs, outputs } = obj;
         if(inputs.some(input => stripped === input)) {
-            pools.push(outputs);
+            pools.push(obj);
         }
     }
     if(pools.length) {
         let outputPool = randomChoice(pools);
         let output;
         if(response === null) {
-            output = randomChoice(outputPool);
+            output = randomChoice(outputPool.outputs);
+        }
+        else if(response === "all" && !outputPool.secret) {
+            output = Object.entries(outputPool.outputs);
+            let size = output.length.toString().length;
+            output = output
+                .map(([key, value]) =>
+                    `\`${key.toString().padStart(size)}.\` ${value}`
+                )
+                .join("\n");
         }
         else {
-            output = outputPool[response] || "_I'm sorry, there's no corresponding repsonse :c_";
+            output = outputPool.outputs[response] || "_I'm sorry, there's no corresponding response :c_";
         }
         channel.send(output);
     }

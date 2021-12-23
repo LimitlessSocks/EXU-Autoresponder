@@ -43,6 +43,7 @@
         "outputs": ["maindeck non-ritual effect monsters are called pringles"]
     },
     {
+        "secret": true,
         "inputs": ["fr"],
         "outputs": ["frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","frfr","i do heartily furnish acclaim and respect for the relevant string of words, for they do truly resonate with my interior state of mind, enough for me to have considered reflecting that by inputing keystrokes on the appropriate device and committing to sending the above message in this particular channel for communication. frfr!"]
     },
@@ -150,6 +151,7 @@
         "outputs": ["Akatsuki God"]
     },
     {
+        "secret": true,
         "inputs": ["auto"],
         "outputs": [
             "_Hi! Hope you are having a good day :3_",
