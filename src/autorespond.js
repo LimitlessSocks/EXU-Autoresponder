@@ -18,7 +18,7 @@ client.on("messageCreate", message => {
     let { content, channel } = message;
     let stripped = content.toLowerCase().trim();
     let response = null;
-    let match = stripped.match(/(.+) (\d+)/);
+    let match = stripped.match(/^\s*(.+?)\s+(\d+)\s*$/);
     if(match) {
         stripped = match[1];
         response = match[2];
