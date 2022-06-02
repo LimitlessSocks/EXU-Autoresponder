@@ -180,5 +180,16 @@
     {
         "inputs": ["ocean"],
         "outputs": ["xenomorphs and predators, oh my oh my!"]
+    },
+    {
+        "inputs": ["pretzel"],
+        "outputs": [
+            "stole sock's owl children to make an engine",
+            "an incredibly pretzelled snek"
+        ]
+    },
+    {
+        "inputs": ["iri", "rielle"],
+        "outputs": ["yep floodgate", "i started saying based because of this server"]
     }
 ]
