@@ -195,5 +195,9 @@
     {
         "inputs": ["kole"],
         "outputs": ["head empty, flip guru"]
+    },
+    {
+        "inputs": ["eureka"],
+        "outputs": ["STOP :clap: MAKING :clap: SUPPORT :clap: FOR :clap: ARCHETYPES :clap: YOU :clap: DON'T :clap: CARE :clap: ABOUT :clap:"]
     }
 ]
