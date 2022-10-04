@@ -97,7 +97,7 @@
     },
     {
         "inputs": ["toaster", "toast"],
-        "outputs": ["I saw a Judge ping?"]
+        "outputs": ["I saw a Judge ping?", "https://cdn.discordapp.com/attachments/618662632140046347/1026675830656614413/Screenshot_20220908-195000-462.png"]
     },
     {
         "inputs": ["fishy"],
