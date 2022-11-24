@@ -8,8 +8,8 @@
         "outputs": ["sock's ultimate clone"]
     },
     {
-        "inputs": ["wip"],
-        "outputs": ["King of Black People"]
+        "inputs": ["wip", "andraith"],
+        "outputs": ["King of Black People", "I am actively judging all of you"]
     },
     {
         "inputs": ["khrey"],
@@ -140,7 +140,7 @@
     },
     {
         "inputs": ["ajax"],
-        "outputs": ["The One Armed Wonder"]
+        "outputs": ["The One Armed Wonder", "Activate Meltdown, Search Aleister, Summon Aleister, Search Invocation, Link Aliester into Artemis, Activate Invocation, Summon Mechaba, Pass"]
     },
     {
         "inputs": ["knightmare", "knight"],
@@ -199,5 +199,13 @@
     {
         "inputs": ["eureka"],
         "outputs": ["STOP :clap: MAKING :clap: SUPPORT :clap: FOR :clap: ARCHETYPES :clap: YOU :clap: DON'T :clap: CARE :clap: ABOUT :clap:"]
+    },
+    {
+        "inputs": ["llama"],
+        "outputs": ["I'm going to ping redox and you cannot stop me!"]
+    },
+    {
+        "inputs": ["bds", "bdsceptre", "bdsceptyr"],
+        "outputs": ["hippity hoppity your cardarts are prolly my property lul"]
     }
 ]
