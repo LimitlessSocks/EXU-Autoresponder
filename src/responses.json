@@ -14,7 +14,7 @@
     {
         "inputs": ["meow", "matsu"],
         "outputs": ["11th funniest person alive 2009"]
-    }
+    },
     {
         "inputs": ["khrey"],
         "outputs": ["darkwater bromken"]
@@ -49,7 +49,7 @@
     {
         "inputs": ["pringle", "pringles"],
         "outputs": ["maindeck non-ritual effect monsters are called pringles"]
-    }
+    },
     {
         "secret": true,
         "inputs": ["fr"],
