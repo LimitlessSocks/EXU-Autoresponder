@@ -1,7 +1,7 @@
 [
     {
         "inputs": ["sock"],
-        "outputs": ["3 toad for game bro lesgoooooooooooo", "local semi-limited furry"]
+        "outputs": ["3 toad for game bro lesgoooooooooooo", "local semi-limited furry", ":bird:"]
     },
     {
         "inputs": ["socks", "yummy", "yum"],
@@ -9,8 +9,12 @@
     },
     {
         "inputs": ["wip", "andraith"],
-        "outputs": ["King of Black People", "I am actively judging all of you"]
+        "outputs": ["I am actively judging all of you", "Ping me and I'll end your bloodline"]
     },
+    {
+        "inputs": ["meow", "matsu"],
+        "outputs": ["11th funniest person alive 2009"]
+    }
     {
         "inputs": ["khrey"],
         "outputs": ["darkwater bromken"]
@@ -28,7 +32,7 @@
     },
     {
         "inputs": ["redox", "red"],
-        "outputs": ["i'll stick your balls on a stick and call it a ball kabab if your bitch ass don't shut the fuck up in the next 5 seconds"]
+        "outputs": ["resident lizard enthusiast", "eternally committed to slaying the tcg"]
     },
     {
         "inputs": ["ryck"],
@@ -36,12 +40,16 @@
     },
     {
         "inputs": ["mevs"],
-        "outputs": ["holifear players when they don't clog up the opponent's backrow"]
+        "outputs": ["holifear players when they don't clog up the opponent's backrow", "gaming?", "gaming", "gmaing", "gaming!"]
     },
     {
         "inputs": ["gatr"],
-        "outputs": ["maindeck non-ritual effect monsters are called pringles"]
+        "outputs": ["doesn't even wear pants", "https://cdn.discordapp.com/attachments/614619828447346688/1066229200618537000/Screen_Shot_2023-01-01_at_11.30.46_PM-1.png"]
     },
+    {
+        "inputs": ["pringle", "pringles"],
+        "outputs": ["maindeck non-ritual effect monsters are called pringles"]
+    }
     {
         "secret": true,
         "inputs": ["fr"],
@@ -65,14 +73,14 @@
     {
         "inputs": ["ava"],
         "outputs": [
-            "wanna see me talk about my deck? wanna see me do it again?",
             "fairy aficionado"
         ]
     },
     {
         "inputs": ["ani", "ms. konami"],
         "outputs": [
-            "alas, i do not"
+            "alas, i do not",
+            "https://cdn.discordapp.com/emojis/787369370916880386.gif?size=48&quality=lossless"
         ]
     },
     {
@@ -125,10 +133,6 @@
     {
         "inputs": ["verde"],
         "outputs": ["Salad 4 President"]
-    },
-    {
-        "inputs": ["wip"],
-        "outputs": ["Ping me and I'll end your bloodline"]
     },
     {
         "inputs": ["kiyousa", "kiyo"],
@@ -189,6 +193,10 @@
         ]
     },
     {
+        "inputs": ["luigi"],
+        "outputs": ["pretz's metaphorical husband", "italian"]
+    },
+    {
         "inputs": ["iri", "rielle"],
         "outputs": ["yep floodgate", "i started saying based because of this server"]
     },
@@ -198,7 +206,7 @@
     },
     {
         "inputs": ["eureka"],
-        "outputs": ["STOP :clap: MAKING :clap: SUPPORT :clap: FOR :clap: ARCHETYPES :clap: YOU :clap: DON'T :clap: CARE :clap: ABOUT :clap:"]
+        "outputs": ["STOP :clap: MAKING :clap: SUPPORT :clap: FOR :clap: ARCHETYPES :clap: YOU :clap: DON'T :clap: UNDERSTAND :clap:"]
     },
     {
         "inputs": ["llama"],
@@ -207,5 +215,9 @@
     {
         "inputs": ["bds", "bdsceptre", "bdsceptyr"],
         "outputs": ["hippity hoppity your cardarts are prolly my property lul"]
+    },
+    {
+        "inputs": ["is auto online", "is auto online?"],
+        "outputs": ["HAI ^-^"]
     }
 ]
