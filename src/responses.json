@@ -32,7 +32,7 @@
     },
     {
         "inputs": ["redox", "red"],
-        "outputs": ["resident lizard enthusiast", "eternally committed to slaying the tcg"]
+        "outputs": ["resident lizard enthusiast", "eternally committed to slaying the tcg", "https://cdn.discordapp.com/attachments/614619828447346688/1066232070172586056/20230119_203409.png"]
     },
     {
         "inputs": ["ryck"],
@@ -215,6 +215,10 @@
     {
         "inputs": ["bds", "bdsceptre", "bdsceptyr"],
         "outputs": ["hippity hoppity your cardarts are prolly my property lul"]
+    },
+    {
+        "inputs": ["refuse"],
+        "outputs": ["Cat Connaisseur <:what:993229087566987327>"]
     },
     {
         "inputs": ["is auto online", "is auto online?"],
