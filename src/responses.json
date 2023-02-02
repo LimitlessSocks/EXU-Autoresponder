@@ -151,10 +151,6 @@
         "outputs": ["Just you wait Azathot will return COPIUM"]
     },
     {
-        "inputs": ["mac", "macadelic"],
-        "outputs": ["Akatsuki God"]
-    },
-    {
         "secret": true,
         "inputs": ["auto"],
         "outputs": [
