@@ -214,7 +214,15 @@
     },
     {
         "inputs": ["refuse"],
-        "outputs": ["Cat Connaisseur <:what:993229087566987327>"]
+        "outputs": ["Cat Connoisseur <:what:993229087566987327>"]
+    },
+    {
+        "inputs": ["iris", "garland"],
+        "outputs": ["it's probably fine"]
+    },
+    {
+        "inputs": ["aurora"],
+        "outputs": ["he knows"],
     },
     {
         "inputs": ["is auto online", "is auto online?"],
