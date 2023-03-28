@@ -222,7 +222,7 @@
     },
     {
         "inputs": ["aurora"],
-        "outputs": ["he knows"],
+        "outputs": ["he knows"]
     },
     {
         "inputs": ["is auto online", "is auto online?"],
