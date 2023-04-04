@@ -147,10 +147,6 @@
         "outputs": ["The One Armed Wonder", "Activate Meltdown, Search Aleister, Summon Aleister, Search Invocation, Link Aliester into Artemis, Activate Invocation, Summon Mechaba, Pass"]
     },
     {
-        "inputs": ["knightmare", "knight"],
-        "outputs": ["Just you wait Azathot will return COPIUM"]
-    },
-    {
         "secret": true,
         "inputs": ["auto"],
         "outputs": [
@@ -185,12 +181,16 @@
         "inputs": ["pretzel"],
         "outputs": [
             "stole sock's owl children to make an engine",
-            "an incredibly pretzelled snek"
+            "an incredibly pretzelled snek", "Knight <:flooshed:915863175897948182>"
         ]
     },
     {
+        "inputs": ["knightmare", "knight"],
+        "outputs": ["Just you wait Azathot will return COPIUM", "Pretz <:flooshed:915863175897948182>"]
+    },
+    {
         "inputs": ["luigi"],
-        "outputs": ["pretz's metaphorical husband", "italian"]
+        "outputs": ["italian"]
     },
     {
         "inputs": ["iri", "rielle"],
@@ -217,8 +217,8 @@
         "outputs": ["Cat Connoisseur <:what:993229087566987327>"]
     },
     {
-        "inputs": ["iris", "garland"],
-        "outputs": ["it's probably fine"]
+        "inputs": ["iris", "garland", "gary"],
+        "outputs": ["it's probably fine", "Gaslight\nGatekeep\nGarlboss"]
     },
     {
         "inputs": ["aurora"],
