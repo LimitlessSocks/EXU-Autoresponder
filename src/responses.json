@@ -73,7 +73,8 @@
     {
         "inputs": ["ava"],
         "outputs": [
-            "fairy aficionado"
+            "y'all want more engines lmao?",
+            "walking advertisement"
         ]
     },
     {
@@ -89,7 +90,11 @@
     },
     {
         "inputs": ["bear"],
-        "outputs": ["The safe space wholesome supervisor"]
+        "outputs": [
+            "the safe space wholesome supervisor",
+            "loves rob",
+            "is not a vampire!"
+        ]
     },
     {
         "inputs": ["ake"],
@@ -181,16 +186,33 @@
         "inputs": ["pretzel"],
         "outputs": [
             "stole sock's owl children to make an engine",
-            "an incredibly pretzelled snek", "Knight <:flooshed:915863175897948182>"
+            "an incredibly pretzelled snek",
+            "Knight <:flooshed:915863175897948182>"
         ]
     },
     {
         "inputs": ["knightmare", "knight"],
-        "outputs": ["Just you wait Azathot will return COPIUM", "Pretz <:flooshed:915863175897948182>"]
+        "outputs": [
+            "Just you wait Azathot will return COPIUM",
+            "But what if we made another Rank 9 deck!?!",
+            "Pretz <:flooshed:915863175897948182>"
+        ]
+    },
+    {
+        "inputs": ["foo"],
+        "outputs": ["I'm gonna set 4 backrow and hand you a lightning storm"]
+    },
+    {
+        "inputs": ["doc"],
+        "outputs": ["doc go work on your archetype"]
+    },
+    {
+        "inputs": ["supreme", "supreme ttt", "ttt"],
+        "outputs": ["Objectively the best banlist takes"]
     },
     {
         "inputs": ["luigi"],
-        "outputs": ["italian"]
+        "outputs": ["italian", "filthy weeb"]
     },
     {
         "inputs": ["iri", "rielle"],
@@ -222,7 +244,7 @@
     },
     {
         "inputs": ["aurora"],
-        "outputs": ["he knows"]
+        "outputs": ["he knows", "https://tenor.com/view/surskit-ah-surskit-a-pokemon-pok%C3%A9mon-gif-21420968"]
     },
     {
         "inputs": ["is auto online", "is auto online?"],
