@@ -97,6 +97,12 @@
         ]
     },
     {
+        "inputs": ["rob"],
+        "outputs": [
+            "loves bear"
+        ]
+    },
+    {
         "inputs": ["ake"],
         "outputs": ["Your handtraps don't matter"]
     },
