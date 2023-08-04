@@ -9,7 +9,11 @@
     },
     {
         "inputs": ["wip", "andraith"],
-        "outputs": ["I am actively judging all of you", "Ping me and I'll end your bloodline"]
+        "outputs": ["I am actively judging all of you", "Ping me and I'll end your bloodline", "Iris' Hades"]
+    },
+    {
+        "inputs": ["iris", "garland", "gary"],
+        "outputs": ["it's probably fine", "Gaslight\nGatekeep\nGarlboss", "Andraith's Persephone"]
     },
     {
         "inputs": ["meow", "matsu"],
@@ -189,7 +193,7 @@
         "outputs": ["xenomorphs and predators, oh my oh my!"]
     },
     {
-        "inputs": ["pretzel"],
+        "inputs": ["pretzel", "pretz"],
         "outputs": [
             "stole sock's owl children to make an engine",
             "an incredibly pretzelled snek",
@@ -214,7 +218,7 @@
     },
     {
         "inputs": ["supreme", "supreme ttt", "ttt"],
-        "outputs": ["Objectively the best banlist takes"]
+        "outputs": ["Objectively the best banlist takes", "Don't make more freaking Dark World support"]
     },
     {
         "inputs": ["luigi"],
@@ -245,15 +249,11 @@
         "outputs": ["Cat Connoisseur <:what:993229087566987327>"]
     },
     {
-        "inputs": ["iris", "garland", "gary"],
-        "outputs": ["it's probably fine", "Gaslight\nGatekeep\nGarlboss"]
-    },
-    {
         "inputs": ["aurora"],
-        "outputs": ["he knows", "https://tenor.com/view/surskit-ah-surskit-a-pokemon-pok%C3%A9mon-gif-21420968"]
+        "outputs": ["https://tenor.com/view/surskit-ah-surskit-a-pokemon-pok%C3%A9mon-gif-21420968"]
     },
     {
-        "inputs": ["is auto online", "is auto online?"],
+        "inputs": ["is auto online", "is auto online?", "is auto up", "is auto up?", "is auto alive", "is auto alive?"],
         "outputs": ["HAI ^-^"]
     }
 ]
