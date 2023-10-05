@@ -21,7 +21,7 @@
     },
     {
         "inputs": ["khrey"],
-        "outputs": ["darkwater bromken"]
+        "outputs": ["darkwater bromken", "Normal Summoning is a suggestion <:smilee:828729026218426368>"]
     },
     {
         "inputs": ["f"],
@@ -158,7 +158,7 @@
         "outputs": ["TCG Supremacy"]
     },
     {
-        "inputs": ["ajax"],
+        "inputs": ["ajax", "akyr", "druncle"],
         "outputs": ["The One Armed Wonder", "Activate Meltdown, Search Aleister, Summon Aleister, Search Invocation, Link Aliester into Artemis, Activate Invocation, Summon Mechaba, Pass"]
     },
     {
@@ -255,5 +255,9 @@
     {
         "inputs": ["is auto online", "is auto online?", "is auto up", "is auto up?", "is auto alive", "is auto alive?"],
         "outputs": ["HAI ^-^"]
+    },
+    {
+        "inputs": ["undermind"],
+        "outputs": ["if my girl and gae dearg-"]
     }
 ]
