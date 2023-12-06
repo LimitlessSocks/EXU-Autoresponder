@@ -97,7 +97,8 @@
         "outputs": [
             "kissed by fire",
             "loves rob",
-            "is not a vampire!"
+            "is not a vampire!",
+            "is a ginger delight"
         ]
     },
     {
@@ -185,8 +186,8 @@
         "outputs": ["exu's rock enthusiast"]
     },
     {
-        "inputs": ["c.c", "c.c."],
-        "outputs": ["slowest duelist on the server, guaranteed"]
+        "inputs": ["c.c", "c.c.", "cc"],
+        "outputs": ["slowest duelist on the server, guaranteed", "vc?"]
     },
     {
         "inputs": ["ocean"],
