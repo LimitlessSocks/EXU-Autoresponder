@@ -17,7 +17,8 @@ const randomChoice = arr => arr[Math.random() * arr.length | 0];
 client.on("messageCreate", message => {
     let pools = [];
     let { content, channel } = message;
-    let stripped = content.toLowerCase().trim();
+    let original = content.trim();
+    let stripped = original.toLowerCase();
     let response = null;
     let match = stripped.match(/^\s*(.+?)\s+(\d+|all)\s*$/);
     if(match) {
@@ -47,6 +48,11 @@ client.on("messageCreate", message => {
         }
         else {
             output = outputPool.outputs[response] || "_I'm sorry, there's no corresponding response :c_";
+        }
+        // if user shouts at auto, shout back
+        if(original === original.toUpperCase() && original !== original.toLowerCase()) {
+            output = output.replace(/:\w+:|<:\S+?:\S+?\d+>|https?:\/\/\S+|(.+?)/g, (whole, group) => 
+                group?.toUpperCase() ?? whole);
         }
         channel.send(output);
     }

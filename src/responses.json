@@ -160,7 +160,7 @@
     },
     {
         "inputs": ["ajax", "akyr", "druncle"],
-        "outputs": ["The One Armed Wonder", "Activate Meltdown, Search Aleister, Summon Aleister, Search Invocation, Link Aliester into Artemis, Activate Invocation, Summon Mechaba, Pass"]
+        "outputs": ["The One Armed Wonder", "Activate Meltdown, Search Aleister, Summon Aleister, Search Invocation, Link Aliester into Artemis, Activate Invocation, Summon Mechaba, Pass", "If I had a nickel for every time someone submitted Cyberse Support, I'd have more nickels than I'd know what to do with. So please Stop."]
     },
     {
         "secret": true,
@@ -198,11 +198,11 @@
         "outputs": [
             "stole sock's owl children to make an engine",
             "an incredibly pretzelled snek",
-            "Knight <:flooshed:915863175897948182>"
+            "Riku <:flooshed:915863175897948182>"
         ]
     },
     {
-        "inputs": ["knightmare", "knight"],
+        "inputs": ["knightmare", "knight", "riku"],
         "outputs": [
             "Just you wait Azathot will return COPIUM",
             "But what if we made another Rank 9 deck!?!",
@@ -260,5 +260,17 @@
     {
         "inputs": ["undermind"],
         "outputs": ["if my girl and gae dearg-", "TIARAMENTS STRONGEST :muscle:"]
+    },
+    {
+        "inputs": ["god", "gawd"],
+        "outputs": ["-zilla!"]
+    },
+    {
+        "inputs": ["phayze", "phaze"],
+        "outputs": ["Normal summon, Link summon into the link 1. Link 1 search the field spell. Called by the ash blossom. Activate field spell, search 1 card combo."]
+    },
+    {
+        "inputs": ["sff"],
+        "outputs": ["https://discord.gg/Za2tpNmj8m"]
     }
 ]
