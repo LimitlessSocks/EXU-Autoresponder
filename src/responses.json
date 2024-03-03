@@ -48,7 +48,7 @@
     },
     {
         "inputs": ["gatr"],
-        "outputs": ["doesn't even wear pants", "https://cdn.discordapp.com/attachments/614619828447346688/1066229200618537000/Screen_Shot_2023-01-01_at_11.30.46_PM-1.png"]
+        "outputs": ["doesn't even wear pants", "https://cdn.discordapp.com/attachments/614619828447346688/1066229200618537000/Screen_Shot_2023-01-01_at_11.30.46_PM-1.png", "https://cdn.discordapp.com/attachments/614619828447346688/1213724305481928744/8hsji9.jpg?ex=65f683d8&is=65e40ed8&hm=0336cd7662bbaf66b5ac05eebec45d378a0f8feceffca9e4857b11453ebf4f09&"]
     },
     {
         "inputs": ["pringle", "pringles"],
@@ -144,7 +144,7 @@
     },
     {
         "inputs": ["fallen"],
-        "outputs": ["I'mma be honest", "Ima be honest I love men", "I love men"]
+        "outputs": ["R u hello", "Ima be honest I love men", "I love men"]
     },
     {
         "inputs": ["verde"],
@@ -267,11 +267,15 @@
     },
     {
         "inputs": ["phayze", "phaze"],
-        "outputs": ["Normal summon, Link summon into the link 1. Link 1 search the field spell. Called by the ash blossom. Activate field spell, search 1 card combo."]
+        "outputs": ["Normal summon, Link summon into the link 1. Link 1 search the field spell. Called by the ash blossom. Activate field spell, search 1 card combo.", "What do you mean I can't make my card a 1 card starter that is also unaffected and is a non-opt omni negate that board nukes along with the ability to handrip 5?!"]
     },
     {
         "inputs": ["sff"],
         "outputs": ["https://discord.gg/Za2tpNmj8m"]
+    },
+    {
+        "inputs": ["palestine"],
+        "outputs": ["free palestine! :flag_ps:"]
     },
     {
         "inputs": ["gay rat barrage", "gay rat"],
