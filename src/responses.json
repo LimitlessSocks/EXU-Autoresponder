@@ -9,11 +9,11 @@
     },
     {
         "inputs": ["wip", "andraith"],
-        "outputs": ["I am actively judging all of you", "Ping me and I'll end your bloodline", "Iris' Hades"]
+        "outputs": ["I am actively judging all of you", "Ping me and I'll end your bloodline"]
     },
     {
         "inputs": ["iris", "garland", "gary"],
-        "outputs": ["it's probably fine", "Gaslight\nGatekeep\nGarlboss", "Andraith's Persephone"]
+        "outputs": ["it's probably fine", "Gaslight\nGatekeep\nGarlboss"]
     },
     {
         "inputs": ["meow", "matsu"],
