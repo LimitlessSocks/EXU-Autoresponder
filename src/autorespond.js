@@ -61,6 +61,7 @@ const adjustDateBy = (originalDate, timeDelta) => {
         let value = deltaParts[i] === "a" ? 1 : parseInt(deltaParts[i]);
         const unit = deltaParts[i + 1];
         if (Number.isNaN(value)) {
+            i--;
             continue;
         }
         if (!(unit in timeUnits)) {
